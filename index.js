@@ -1,5 +1,5 @@
-var nextTick = require('next-tick')
-var convert = require('color-convert')
+var nextTick = require('timoxley-next-tick')
+var convert = require('timoxley-color-convert')
 
 /**
  * Generate noise upon a supplied canvas instance.

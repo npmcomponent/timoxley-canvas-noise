@@ -1,0 +1,11 @@
+{
+  "name": "timoxley-canvas-noise",
+  "description": "Generate noise on a canvas.",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {
+    "timoxley-next-tick": "git://github.com/npmcomponent/timoxley-next-tick.git",
+    "timoxley-color-convert": "git://github.com/npmcomponent/timoxley-color-convert.git"
+  },
+  "license": "MIT"
+}
